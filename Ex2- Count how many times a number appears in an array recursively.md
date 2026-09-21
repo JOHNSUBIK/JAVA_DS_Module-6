@@ -85,6 +85,7 @@ class RemoveNodes {
 
 ## Output:
 
+<img width="577" height="178" alt="514999513-8b491571-ae80-4bdb-9d3d-3aa8c413a212" src="https://github.com/user-attachments/assets/84970516-5dcf-47d7-9308-50843426272b" />
 
 
 ## Result:
